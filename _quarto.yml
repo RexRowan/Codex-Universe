@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Solar Shield"
+  description: "Space-based environmental engineering: a reflective sail swarm and a solar power harvester, both anchored near Earth's orbit."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: environmental-projects.qmd
+        text: Environmental Projects
+      - href: projects/solar-shield-swarm.qmd
+        text: Solar Shield Swarm
+      - href: projects/sbsp-harvester.qmd
+        text: SBSP Harvester
+    right:
+      - icon: github
+        href: https://github.com/RexRowan
+  page-footer:
+    left: "Rex Rowan"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+    grid:
+      body-width: 900px

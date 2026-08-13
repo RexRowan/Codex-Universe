@@ -1,0 +1,26 @@
+---
+title: "SBSP Harvester"
+subtitle: "Space-based solar power, collected in orbit and beamed to Earth"
+---
+
+## Concept
+
+A satellite carrying a large photovoltaic array that collects solar energy continuously (no day-night cycle, no atmosphere or weather losses) and converts it to a microwave or laser beam transmitted to a ground rectenna, where it's converted back to grid electricity.
+
+## Where this sits in the field
+
+This isn't a speculative idea — it's an active area of work. ESA's SOLARIS program has been studying feasibility since 2022, and demonstration missions (Caltech's SSPD-1, JAXA's OHISAMA, Northrop Grumman's SSPIDR/Arachne) have already closed the loop on watt-to-kilowatt-scale orbital power beaming. Commercial demonstration satellites are targeted for the late 2020s, with megawatt-class pilots plausible by 2030 if reusable super-heavy launch (Starship-class) delivers on cost.
+
+## Core chain
+
+Photovoltaic array → power conversion → phased-array transmitter → ground rectenna.
+
+## Open engineering questions
+
+- **Orbit choice**: GEO gives continuous visibility to a fixed ground site but a longer beam path; LEO is cheaper to reach but requires either a distributed constellation or intermittent transmission.
+- **Beam safety and regulation**: power density limits at the rectenna, human/animal exposure at the margins, and international spectrum coordination.
+- **Launch cost**: still the dominant line item — a gigawatt-class station means millions of kilograms of hardware.
+
+## Distance from the Sun
+
+~149.6 million km — essentially Earth's own distance, since the satellite stays in Earth orbit rather than deep space. The GEO altitude difference (about 42,000 km) is a rounding error at solar-system scale.

@@ -1,0 +1,13 @@
+---
+title: "Solar Shield"
+subtitle: "Two space-based approaches to the same star"
+---
+
+Solar Shield is an umbrella for two related space engineering concepts, both built around one question: what do we do about the Sun's energy once it reaches near-Earth space?
+
+- **[Solar Shield Swarm](projects/solar-shield-swarm.qmd)** — a distributed swarm of gram-scale reflective sails stationed near the Sun-Earth L1 point, designed to reduce solar insolation reaching Earth.
+- **[SBSP Harvester](projects/sbsp-harvester.qmd)** — a satellite concept for collecting solar energy in Earth orbit and beaming it to a ground receiver, in the spirit of ESA's SOLARIS program.
+
+See the [Environmental Projects](environmental-projects.qmd) page for a side-by-side comparison, including how far each concept actually sits from the Sun.
+
+This site sits alongside my [quantum computing portfolio](https://rexrowan.github.io/QPortfolio/) as a second track of work — open-source software on one side, space systems concepts on the other.
