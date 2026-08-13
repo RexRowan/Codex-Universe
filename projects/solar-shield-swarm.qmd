@@ -11,9 +11,10 @@ A distributed swarm of ultra-lightweight reflective sails, individually gram-to-
 
 ## Why a swarm, not one shade
 
+Current research, like the work of [Planetary Sunshade Foundation](https://planetarysunshade.org/), funded via [ARIA](https://aria.org.uk/), focuses on ultra-light "solar sail" style films — a giant solar sail spanning roughly one million square kilometers, claimed to cool the planet by about one degree.
+
 Classic single-occulter sunshade proposals run into mass problems fast — full-scale occulting disks are estimated at 10⁷–10⁸ tonnes, roughly the scale of a major terrestrial civil engineering project. A swarm of many small, thin-film sails spreads that same shading area across many cheap, individually replaceable units, and trades a small amount of shading efficiency for a much lower total launch mass.
 
-Current research, like the work of [Planetary Sunshade Foundation](https://planetarysunshade.org/), funded via [ARIA](https://aria.org.uk/), focuses on ultra-light "solar sail" style films — a giant solar sail spanning roughly one million square kilometers, claimed to cool the planet by about one degree.
 
 ## Open engineering questions
 
