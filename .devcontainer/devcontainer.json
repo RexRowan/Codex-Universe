@@ -1,0 +1,19 @@
+{
+  "name": "Solar Shield — Quarto site",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/rocker-org/devcontainer-features/quarto-cli:1": {
+      "version": "release",
+      "installTinyTex": "true",
+      "installChromium": "false"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "quarto.quarto"
+      ]
+    }
+  },
+  "postStartCommand": "quarto check"
+}
