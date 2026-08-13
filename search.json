@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Solar Shield",
+    "section": "",
+    "text": "Solar Shield is an umbrella for two related space engineering concepts, both built around one question: what do we do about the Sun’s energy once it reaches near-Earth space?\n\nSolar Shield Swarm — a distributed swarm of gram-scale reflective sails stationed near the Sun-Earth L1 point, designed to reduce solar insolation reaching Earth.\nSBSP Harvester — a satellite concept for collecting solar energy in Earth orbit and beaming it to a ground receiver, in the spirit of ESA’s SOLARIS program.\n\nSee the Environmental Projects page for a side-by-side comparison, including how far each concept actually sits from the Sun.\nThis site sits alongside my quantum computing portfolio as a second track of work — open-source software on one side, space systems concepts on the other."
+  },
+  {
+    "objectID": "projects/solar-shield-swarm.html",
+    "href": "projects/solar-shield-swarm.html",
+    "title": "Solar Shield Swarm",
+    "section": "",
+    "text": "A distributed swarm of ultra-lightweight reflective sails, individually gram-to-kilogram scale, stationed near the Sun-Earth L1 Lagrange point — roughly 1.5 million km sunward of Earth, where the Sun’s and Earth’s gravity balance. The shading effect comes from swarm coverage area, not from any single structure’s mass.\n\n\n\nSolar Shield swarm concept at L1"
+  },
+  {
+    "objectID": "projects/solar-shield-swarm.html#concept",
+    "href": "projects/solar-shield-swarm.html#concept",
+    "title": "Solar Shield Swarm",
+    "section": "",
+    "text": "A distributed swarm of ultra-lightweight reflective sails, individually gram-to-kilogram scale, stationed near the Sun-Earth L1 Lagrange point — roughly 1.5 million km sunward of Earth, where the Sun’s and Earth’s gravity balance. The shading effect comes from swarm coverage area, not from any single structure’s mass.\n\n\n\nSolar Shield swarm concept at L1"
+  },
+  {
+    "objectID": "projects/solar-shield-swarm.html#why-a-swarm-not-one-shade",
+    "href": "projects/solar-shield-swarm.html#why-a-swarm-not-one-shade",
+    "title": "Solar Shield Swarm",
+    "section": "Why a swarm, not one shade",
+    "text": "Why a swarm, not one shade\nClassic single-occulter sunshade proposals run into mass problems fast — full-scale occulting disks are estimated at 10⁷–10⁸ tonnes, roughly the scale of a major terrestrial civil engineering project. A swarm of many small, thin-film sails spreads that same shading area across many cheap, individually replaceable units, and trades a small amount of shading efficiency for a much lower total launch mass."
+  },
+  {
+    "objectID": "projects/solar-shield-swarm.html#open-engineering-questions",
+    "href": "projects/solar-shield-swarm.html#open-engineering-questions",
+    "title": "Solar Shield Swarm",
+    "section": "Open engineering questions",
+    "text": "Open engineering questions\n\nStation-keeping: L1 is an unstable equilibrium — every sail needs active or passive correction to avoid drifting off station.\nSwarm geometry: coverage vs. collision-avoidance vs. correction-burn budget is a genuinely open combinatorial/control problem.\nIndividual sail design: reflectivity, film thickness, attitude control, and survivability against micrometeorites."
+  },
+  {
+    "objectID": "projects/solar-shield-swarm.html#distance-from-the-sun",
+    "href": "projects/solar-shield-swarm.html#distance-from-the-sun",
+    "title": "Solar Shield Swarm",
+    "section": "Distance from the Sun",
+    "text": "Distance from the Sun\n~148.1 million km — about 1.5 million km closer to the Sun than Earth itself, and closer than any Earth-orbiting satellite by definition."
+  },
+  {
+    "objectID": "projects/sbsp-harvester.html",
+    "href": "projects/sbsp-harvester.html",
+    "title": "SBSP Harvester",
+    "section": "",
+    "text": "A satellite carrying a large photovoltaic array that collects solar energy continuously (no day-night cycle, no atmosphere or weather losses) and converts it to a microwave or laser beam transmitted to a ground rectenna, where it’s converted back to grid electricity."
+  },
+  {
+    "objectID": "projects/sbsp-harvester.html#concept",
+    "href": "projects/sbsp-harvester.html#concept",
+    "title": "SBSP Harvester",
+    "section": "",
+    "text": "A satellite carrying a large photovoltaic array that collects solar energy continuously (no day-night cycle, no atmosphere or weather losses) and converts it to a microwave or laser beam transmitted to a ground rectenna, where it’s converted back to grid electricity."
+  },
+  {
+    "objectID": "projects/sbsp-harvester.html#where-this-sits-in-the-field",
+    "href": "projects/sbsp-harvester.html#where-this-sits-in-the-field",
+    "title": "SBSP Harvester",
+    "section": "Where this sits in the field",
+    "text": "Where this sits in the field\nThis isn’t a speculative idea — it’s an active area of work. ESA’s SOLARIS program has been studying feasibility since 2022, and demonstration missions (Caltech’s SSPD-1, JAXA’s OHISAMA, Northrop Grumman’s SSPIDR/Arachne) have already closed the loop on watt-to-kilowatt-scale orbital power beaming. Commercial demonstration satellites are targeted for the late 2020s, with megawatt-class pilots plausible by 2030 if reusable super-heavy launch (Starship-class) delivers on cost."
+  },
+  {
+    "objectID": "projects/sbsp-harvester.html#core-chain",
+    "href": "projects/sbsp-harvester.html#core-chain",
+    "title": "SBSP Harvester",
+    "section": "Core chain",
+    "text": "Core chain\nPhotovoltaic array → power conversion → phased-array transmitter → ground rectenna."
+  },
+  {
+    "objectID": "projects/sbsp-harvester.html#open-engineering-questions",
+    "href": "projects/sbsp-harvester.html#open-engineering-questions",
+    "title": "SBSP Harvester",
+    "section": "Open engineering questions",
+    "text": "Open engineering questions\n\nOrbit choice: GEO gives continuous visibility to a fixed ground site but a longer beam path; LEO is cheaper to reach but requires either a distributed constellation or intermittent transmission.\nBeam safety and regulation: power density limits at the rectenna, human/animal exposure at the margins, and international spectrum coordination.\nLaunch cost: still the dominant line item — a gigawatt-class station means millions of kilograms of hardware."
+  },
+  {
+    "objectID": "projects/sbsp-harvester.html#distance-from-the-sun",
+    "href": "projects/sbsp-harvester.html#distance-from-the-sun",
+    "title": "SBSP Harvester",
+    "section": "Distance from the Sun",
+    "text": "Distance from the Sun\n~149.6 million km — essentially Earth’s own distance, since the satellite stays in Earth orbit rather than deep space. The GEO altitude difference (about 42,000 km) is a rounding error at solar-system scale."
+  },
+  {
+    "objectID": "environmental-projects.html",
+    "href": "environmental-projects.html",
+    "title": "Environmental Projects",
+    "section": "",
+    "text": "Two projects, one star, two very different orbital regimes."
+  },
+  {
+    "objectID": "environmental-projects.html#how-far-apart-are-they-really",
+    "href": "environmental-projects.html#how-far-apart-are-they-really",
+    "title": "Environmental Projects",
+    "section": "How far apart are they, really?",
+    "text": "How far apart are they, really?\nAt solar-system scale, both projects sit within about 1% of Earth’s own distance from the Sun (1 AU = 149.6 million km). The L1 swarm is roughly 1.5 million km closer — the point where Earth’s and the Sun’s gravity balance. That gap is small on the scale of the solar system, but it is the entire difference between a deep-space mission with no easy servicing and a satellite living in Earth’s own orbital neighborhood.\n\n\n\nDistance from the Sun: true scale and zoomed comparison"
+  }
+]
