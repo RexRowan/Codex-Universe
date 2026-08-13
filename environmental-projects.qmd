@@ -5,7 +5,7 @@ subtitle: "Space-based approaches to solar energy management"
 
 Two projects, one star, two very different orbital regimes.
 
-::: {layout-ncol=2}
+:::: {layout-ncol=2}
 
 ::: {.card}
 ### Solar Shield Swarm
@@ -27,7 +27,7 @@ Solar energy collection satellite in Earth orbit, beaming power to a ground rect
 [Read more →](projects/sbsp-harvester.qmd)
 :::
 
-:::
+::::
 
 ## How far apart are they, really?
 
